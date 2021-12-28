@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.png
+facedetector.py
+*.caffemodel
+Checkpoint/checkpoint.pth
